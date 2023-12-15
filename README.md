@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anjana Singh</h1>
 <h3 align="center">A passionate Frontend Developer Engineer from India</h3>
-<img align="right" alt="coding" width="400" scr="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif"
-
-">
+<img align="right" alt="coding" width="400" scr="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
 
 - 📫 How to reach me **anjanasingh20033@gmail.com**
