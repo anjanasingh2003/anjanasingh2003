@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anjana Singh</h1>
 <h3 align="center">A passionate Frontend Developer Engineer from India</h3>
-<img align="right"  width="400" scr="https://cxotoday.com/wp-content/uploads/2022/08/github.jpeg" alt="coding">
+<img align="right"  width="400" src="https://cxotoday.com/wp-content/uploads/2022/08/github.jpeg" alt="coding">
 
 
 - 📫 How to reach me **anjanasingh20033@gmail.com**
